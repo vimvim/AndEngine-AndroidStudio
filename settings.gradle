@@ -1,0 +1,1 @@
+include ':MagneTank', ':andengine-gles2', ':andengine-gles2-Box2d', ':andengine-gles2-multiplayer', ':AndEngine-GLES2-Examples'

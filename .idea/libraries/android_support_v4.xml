@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-support-v4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MagneTank/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndEngine-GLES2-Examples/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

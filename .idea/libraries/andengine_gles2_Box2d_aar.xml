@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="andengine-gles2-Box2d.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2-Box2d.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2-Box2d.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndEngine-GLES2-Examples/build/exploded-bundles/andengine-gles2-Box2d.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2-Box2d.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2-Box2d.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2-Box2d.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2-Box2d.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

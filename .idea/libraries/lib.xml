@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MagneTank/libs/lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndEngine-GLES2-Examples/libs/lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

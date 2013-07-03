@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="andengine-gles2.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndEngine-GLES2-Box2d/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndEngine-GLES2-Examples/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/andengine-gles2-multiplayer/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/andengine-gles2-multiplayer/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MagneTank/build/exploded-bundles/andengine-gles2.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

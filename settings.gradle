@@ -1,1 +1,2 @@
-include ':MagneTank', ':andengine-gles2', ':andengine-gles2-Box2d', ':andengine-gles2-multiplayer', ':AndEngine-GLES2-Examples'
+include ':MagneTank', ':andengine-gles2', ':andengine-gles2-Box2d', ':andengine-gles2-multiplayer',
+        ':andengine-gles2-cocosbuilder', ':andengine-gles2-augmented', ':AndEngine-GLES2-Examples'

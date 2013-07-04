@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/MagneTankProject.iml" filepath="$PROJECT_DIR$/MagneTankProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndEngine-GLES2/andengine-gles2.iml" filepath="$PROJECT_DIR$/AndEngine-GLES2/andengine-gles2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndEngine-GLES2-Box2d/andengine-gles2-Box2d.iml" filepath="$PROJECT_DIR$/AndEngine-GLES2-Box2d/andengine-gles2-Box2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine-gles2-augmented/andengine-gles2-augmented.iml" filepath="$PROJECT_DIR$/andengine-gles2-augmented/andengine-gles2-augmented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine-gles2-cocosbuilder/andengine-gles2-cocosbuilder.iml" filepath="$PROJECT_DIR$/andengine-gles2-cocosbuilder/andengine-gles2-cocosbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/andengine-gles2-multiplayer/andengine-gles2-multiplayer.iml" filepath="$PROJECT_DIR$/andengine-gles2-multiplayer/andengine-gles2-multiplayer.iml" />
     </modules>
   </component>

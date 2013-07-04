@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="andengine-gles2-augmented.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndEngine-GLES2-Examples/build/exploded-bundles/andengine-gles2-augmented.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

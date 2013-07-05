@@ -15,6 +15,9 @@ dependencies {
     compile project(':andengine-gles2-multiplayer')
     compile project(':andengine-gles2-augmented')
     compile project(':andengine-gles2-cocosbuilder')
+    compile project(':andengine-gles2-svgtexture')
+    compile project(':andengine-gles2-modplayer')
+    compile project(':andengine-gles2-tmx')
 }
 
 android {

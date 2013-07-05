@@ -77,6 +77,12 @@
     <orderEntry type="library" name="andengine-gles2-augmented.aar" level="project" />
     <orderEntry type="module" module-name="andengine-gles2-cocosbuilder" />
     <orderEntry type="module" module-name="andengine-gles2" />
+    <orderEntry type="library" name="andengine-gles2-cocosbuilder.aar" level="project" />
+    <orderEntry type="library" name="andengine-gles2-svgtexture.aar" level="project" />
+    <orderEntry type="library" name="andengine-gles2-modplayer.aar" level="project" />
+    <orderEntry type="module" module-name="andengine-gles2-modplayer" />
+    <orderEntry type="module" module-name="andengine-gles2-svgtexture" />
+    <orderEntry type="library" name="andengine-gles2-tmx.aar" level="project" />
   </component>
 </module>
 

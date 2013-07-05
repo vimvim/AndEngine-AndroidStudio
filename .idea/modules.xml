@@ -9,7 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/AndEngine-GLES2-Box2d/andengine-gles2-Box2d.iml" filepath="$PROJECT_DIR$/AndEngine-GLES2-Box2d/andengine-gles2-Box2d.iml" />
       <module fileurl="file://$PROJECT_DIR$/andengine-gles2-augmented/andengine-gles2-augmented.iml" filepath="$PROJECT_DIR$/andengine-gles2-augmented/andengine-gles2-augmented.iml" />
       <module fileurl="file://$PROJECT_DIR$/andengine-gles2-cocosbuilder/andengine-gles2-cocosbuilder.iml" filepath="$PROJECT_DIR$/andengine-gles2-cocosbuilder/andengine-gles2-cocosbuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine-gles2-modplayer/andengine-gles2-modplayer.iml" filepath="$PROJECT_DIR$/andengine-gles2-modplayer/andengine-gles2-modplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/andengine-gles2-multiplayer/andengine-gles2-multiplayer.iml" filepath="$PROJECT_DIR$/andengine-gles2-multiplayer/andengine-gles2-multiplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine-gles2-svgtexture/andengine-gles2-svgtexture.iml" filepath="$PROJECT_DIR$/andengine-gles2-svgtexture/andengine-gles2-svgtexture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine-gles2-tmx/andengine-gles2-tmx.iml" filepath="$PROJECT_DIR$/andengine-gles2-tmx/andengine-gles2-tmx.iml" />
     </modules>
   </component>
 </project>

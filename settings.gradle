@@ -1,2 +1,3 @@
 include ':MagneTank', ':andengine-gles2', ':andengine-gles2-Box2d', ':andengine-gles2-multiplayer',
-        ':andengine-gles2-cocosbuilder', ':andengine-gles2-augmented', ':AndEngine-GLES2-Examples'
+        ':andengine-gles2-cocosbuilder', ':andengine-gles2-augmented', ':andengine-gles2-svgtexture',
+        ':andengine-gles2-modplayer', ':andengine-gles2-tmx', ':AndEngine-GLES2-Examples'

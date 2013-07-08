@@ -1,1 +1,3 @@
-This file was created by Android Studio (I/O Preview) AI-130.729444 for binding GitHub repository
+This is completely configured and tested AndEngine examples. Project created and build under Android Studio ( Preview ).
+Can be used as are starting point for any AndEngine related projects or for AndEngine research/education purposes.
+Project configured for build using gradle ( new ADT build tool ).
